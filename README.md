@@ -9,6 +9,8 @@ Usage:
 If the output file is omitted, it's input.Rmd.
 
 Options:
+
 --no-header
+
 By default, the tool inserts a header and a reference part to the generated Rmd. Use the option to skip them.
 
